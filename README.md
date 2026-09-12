@@ -1,7 +1,7 @@
 # ¡Hola! Soy Vanessa Méndez 👋🏻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&width=600&lines=Ingenier%C3%ADa+en+Ciencia+de+Datos+%7C+Universidad+Veracruzana;Interesada+en+An%C3%A1lisis+de+Datos+y+Data+Visualization;Apasionada+por+encontrar+patrones+en+los+datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&width=600&lines=Ingenier%C3%ADa+en+Ciencia+de+Datos+%7C+UV;Interesada+en+An%C3%A1lisis+de+Datos+y+Data+Vis" alt="Typing SVG" />
 </div>
 
 ---
@@ -53,33 +53,42 @@
 
 ### 📂 University Projects
 
-*(En proceso de subida ⏳)*
-
 <div align="center">
   <table>
     <tr>
+      <!-- PROYECTO 1: EL DEL TALLER (¡Ya subido!) -->
+      <td align="center">
+        <a href="https://github.com/vanemendez25/gestion-bd-taller-automotriz">
+          <img src="https://img.shields.io/badge/Project-BD_Taller_Automotriz-003545?style=flat&logo=mariadb&logoColor=white" width="220" />
+        </a><br>
+        <i>Diseño Relacional y Consultas SQL</i>
+      </td>
+      <!-- PROYECTO 2: SERIES DE TIEMPO -->
       <td align="center">
         <a href="#">
-          <img src="https://img.shields.io/badge/Project-Análisis_de_Series_de_Tiempo-blue?style=flat&logo=chart-line" width="220" />
+          <img src="https://img.shields.io/badge/Project-Análisis_Series_Tiempo-blue?style=flat&logo=chart-line" width="220" />
         </a><br>
         <i>Metodología Box-Jenkins en E-commerce</i>
       </td>
+    </tr>
+    <tr>
+      <!-- PROYECTO 3: MODELADO ESTADÍSTICO -->
       <td align="center">
         <a href="#">
-          <img src="https://img.shields.io/badge/Project-Modelado_Estadístico-green?style=flat&logo=database" width="220" />
+          <img src="https://img.shields.io/badge/Project-Modelado_Estadístico-green?style=flat&logo=r" width="220" />
         </a><br>
-        <i>Transformaciones Box-Cox (Dataset Boston)</i>
+        <i>Transformaciones Box-Cox en R</i>
       </td>
+      <!-- PROYECTO 4: CLASIFICACIÓN -->
       <td align="center">
         <a href="#">
-          <img src="https://img.shields.io/badge/Project-Clasificación_Educativa-orange?style=flat&logo=school" width="220" />
+          <img src="https://img.shields.io/badge/Project-Clasificación_Educativa-orange?style=flat&logo=python" width="220" />
         </a><br>
-        <i>Árboles de Decisión para Rendimiento Estudiantil</i>
+        <i>Árboles de Decisión (Rendimiento)</i>
       </td>
     </tr>
   </table>
 </div>
-
 ### 🌍 Comunidad
 
 <!-- ¡NUEVO! Animación específica para Talent Land -->
