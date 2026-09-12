@@ -53,10 +53,24 @@
 
 ### 📂 University Projects
 <div align="center">
-  <a href="https://github.com/vanemendez25/gestion-bd-taller-automotriz">
-    <img src="https://img.shields.io/badge/Project-BD_Taller_Automotriz-003545?style=flat&logo=mariadb&logoColor=white" width="250" />
-  </a><br>
-  <i>Diseño e Implementación de Base de Datos Relacional</i>
+  <table>
+    <tr>
+      <!-- PROYECTO 1: TALLER MECÁNICO -->
+      <td align="center">
+        <a href="https://github.com/vanemendez25/gestion-bd-taller-automotriz">
+          <img src="https://img.shields.io/badge/Project-BD_Taller_Automotriz-003545?style=flat&logo=mariadb&logoColor=white" width="240" />
+        </a><br>
+        <i>Diseño de Base de Datos Relacional</i>
+      </td>
+      <!-- PROYECTO 2: OBSERVATORIO DE CIENCIA -->
+      <td align="center">
+        <a href="https://github.com/vanemendez25/dashboard-snii-ods9">
+          <img src="https://img.shields.io/badge/Project-Observatorio_Ciencia_México-E97627?style=flat&logo=tableau&logoColor=white" width="240" />
+        </a><br>
+        <i>Análisis ODS 9 y Visualización Interactiva</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🌍 Comunidad
