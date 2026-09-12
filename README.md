@@ -84,8 +84,7 @@
 
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanemendez25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" height="180" alt="Mis Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanemendez25&layout=compact&theme=tokyonight&v=1" height="180" alt="Lenguajes Top" />
+  <img src="https://streak-stats.demolab.com?user=vanemendez25&theme=synthwave&hide_border=true" alt="Mis Estadísticas" />
 </div>
 
 <div align="center">
