@@ -13,11 +13,10 @@
 *   🗄️ **Manejo de Bases de Datos:** Interés especial en el manejo y organización de datos.
 *   🚀 **Objetivo:** En constante aprendizaje y buscando desarrollar proyectos que apliquen mis conocimientos a problemas reales.
 
-<!-- ¡NUEVO! Enlace Animado a tu Perfil de Google -->
+<!-- ¡NUEVO! Enlace a tu Perfil de Google con el Logo Oficial -->
 <div align="center">
   <a href="https://me.developers.google.com/u/105988642937967699492">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFC107&width=450&lines=Google+Developer+Profile;Badge:+Data+Science;&&center=true" alt="Google Developer Profile Link" />
-    <img src="https://me.developers.google.com/badge/u/105988642937967699492" alt="Google Developer Badge" />
+    <img src="https://github.com/user-attachments/assets/85662f4b-8aab-4e19-9205-a49aefdce241"alt="Google Developer Program" width="350" />
   </a>
 </div>
 
