@@ -52,43 +52,13 @@
 </p>
 
 ### 📂 University Projects
-
 <div align="center">
-  <table>
-    <tr>
-      <!-- PROYECTO 1: EL DEL TALLER (¡Ya subido!) -->
-      <td align="center">
-        <a href="https://github.com/vanemendez25/gestion-bd-taller-automotriz">
-          <img src="https://img.shields.io/badge/Project-BD_Taller_Automotriz-003545?style=flat&logo=mariadb&logoColor=white" width="220" />
-        </a><br>
-        <i>Diseño Relacional y Consultas SQL</i>
-      </td>
-      <!-- PROYECTO 2: SERIES DE TIEMPO -->
-      <td align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Project-Análisis_Series_Tiempo-blue?style=flat&logo=chart-line" width="220" />
-        </a><br>
-        <i>Metodología Box-Jenkins en E-commerce</i>
-      </td>
-    </tr>
-    <tr>
-      <!-- PROYECTO 3: MODELADO ESTADÍSTICO -->
-      <td align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Project-Modelado_Estadístico-green?style=flat&logo=r" width="220" />
-        </a><br>
-        <i>Transformaciones Box-Cox en R</i>
-      </td>
-      <!-- PROYECTO 4: CLASIFICACIÓN -->
-      <td align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Project-Clasificación_Educativa-orange?style=flat&logo=python" width="220" />
-        </a><br>
-        <i>Árboles de Decisión (Rendimiento)</i>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/vanemendez25/gestion-bd-taller-automotriz">
+    <img src="https://img.shields.io/badge/Project-BD_Taller_Automotriz-003545?style=flat&logo=mariadb&logoColor=white" width="250" />
+  </a><br>
+  <i>Diseño e Implementación de Base de Datos Relacional</i>
 </div>
+
 ### 🌍 Comunidad
 
 <!-- ¡NUEVO! Animación específica para Talent Land -->
